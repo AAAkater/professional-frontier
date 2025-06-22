@@ -21,6 +21,9 @@ features:
     - title: Transformer
       details: 利用自注意力机制，极大提升了长距离依赖建模能力，成为NLP主流架构
       link: /Transformer
+    - title: BERT
+      details: 采用双向编码器预训练，显著提升了文本理解与下游任务的表现
+      link: /BERT
     - title: GPT
       details: 以大规模预训练和生成能力著称，推动了自然语言生成和理解
       link: /GPT
