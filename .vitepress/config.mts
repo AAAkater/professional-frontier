@@ -38,6 +38,7 @@ export default defineConfig({
           { text: "总览", link: "/总览" },
           { text: "Word2Vec", link: "/Word2Vec" },
           { text: "Seq2Seq", link: "/Seq2Seq" },
+          { text: "RNN", link: "/RNN" },
           { text: "Transformer", link: "/Transformer" },
           { text: "BERT", link: "/BERT" },
           { text: "GPT", link: "/GPT" },

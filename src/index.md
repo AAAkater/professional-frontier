@@ -18,6 +18,9 @@ features:
     - title: Seq2Seq
       details: 基于编码器-解码器结构，广泛应用于机器翻译、文本摘要等序列到序列任务
       link: /Seq2Seq
+    - title: RNN
+      details: 以大规模预训练和生成能力著称，推动了自然语言生成和理解
+      link: /RNN
     - title: Transformer
       details: 利用自注意力机制，极大提升了长距离依赖建模能力，成为NLP主流架构
       link: /Transformer
